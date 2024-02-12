@@ -12,11 +12,15 @@ Responsive Design: The application is responsive and optimized for various devic
 Technologies Used
 
 Front End: React.js, HTML, CSS
+
 Back End: Supabase (PostgreSQL)
+
 State Management: React Context API
+
 Deployment: Vercel (Front End), Supabase (Back End)
 
 Getting Started
+
 To run this application locally, follow these steps:
 
 Clone this repository to your local machine.
