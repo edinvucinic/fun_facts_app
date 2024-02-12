@@ -34,9 +34,10 @@ REACT_APP_SUPABASE_URL=YOUR_SUPABASE_URL
 REACT_APP_SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
 
 Run the application using npm start.
-Contributing
-Contributions are welcome! If you have any ideas for improvements or would like to report a bug, please open an issue or submit a pull request.
 
+Contributing
+
+Contributions are welcome! If you have any ideas for improvements or would like to report a bug, please open an issue or submit a pull request.
 
 
 Acknowledgements
