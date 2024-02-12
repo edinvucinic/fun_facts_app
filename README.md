@@ -1,4 +1,5 @@
 Fun Facts Application
+
 The Fun Facts application is a platform where users can share interesting facts about various topics such as Society, Science, and History. Built with React.js for the front end and Supabase for the back end, this application provides a seamless and interactive experience for users to engage with and contribute their own fun facts.Users can share a fact by pressing the SHARE THE FACT button.
 
 Features
